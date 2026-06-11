@@ -13,7 +13,7 @@ export const AppLayout = () => {
         appIcon={Kanbn}
         componentsProps={{
           CozyTheme: {
-            type: 'light'
+            type: 'auto'
           }
         }}
       />
