@@ -10,8 +10,6 @@ on:
       - '[0-9]+.[0-9]+.[0-9]+-beta.[0-9]+'
 
 env:
-  MATTERMOST_CHANNEL: '{"dev":"appvengers","beta":"appvengers,publication","stable":"appvengers,publication"}'
-  MATTERMOST_HOOK_URL: ${{ secrets.MATTERMOST_HOOK_URL }}
   REGISTRY_TOKEN: ${{ secrets.REGISTRY_TOKEN }}
 
 jobs:
