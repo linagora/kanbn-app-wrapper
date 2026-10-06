@@ -24,6 +24,21 @@
       "name": "Kanbn",
       "short_description": "Tableau kanban kan.bn embarqué",
       "long_description": "Wrapper Cozy autour d'une instance kan.bn. L'URL du service embarqué est fournie à l'exécution via le flag `kanbn.embedded-app-url`."
+    },
+    "es": {
+      "name": "Kanbn",
+      "short_description": "Tablero kanban kan.bn integrado",
+      "long_description": "Wrapper de Cozy para una instancia de kan.bn. La URL del servicio integrado se proporciona en tiempo de ejecución mediante el flag `kanbn.embedded-app-url`."
+    },
+    "de": {
+      "name": "Kanbn",
+      "short_description": "Eingebettetes kan.bn-Kanban-Board",
+      "long_description": "Cozy-Wrapper für eine kan.bn-Instanz. Die URL des eingebetteten Dienstes wird zur Laufzeit über das Flag `kanbn.embedded-app-url` bereitgestellt."
+    },
+    "it": {
+      "name": "Kanbn",
+      "short_description": "Bacheca kanban kan.bn integrata",
+      "long_description": "Wrapper Cozy per un'istanza kan.bn. L'URL del servizio integrato viene fornito in fase di esecuzione tramite il flag `kanbn.embedded-app-url`."
     }
   },
   "routes": {

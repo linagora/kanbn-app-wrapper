@@ -2,5 +2,8 @@
   "notConfigured": {
     "title": "Kanbn is not configured yet",
     "text": "Ask your administrator to set the %{flag} flag to the URL of your kan.bn service."
+  },
+  "embeddedApp": {
+    "title": "Embedded Kanbn service"
   }
 }
